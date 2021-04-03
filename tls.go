@@ -301,6 +301,9 @@ func (z *TLSConnection) Handshake() error {
 		defer func() {
 			log.HandshakeLog = z.Conn.GetHandshakeLog()
 			log.HeartbleedLog = nil
+			// 插入sct log*********************
+			log.SCTLog = z.Conn.GetsctLog()
+			// *******************************
 		}()
 		return z.Conn.Handshake()
 	}
