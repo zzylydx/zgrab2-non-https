@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/zmap/zgrab2/lib/smb/smb/encoder"
+	"github.com/zzylydx/zgrab2/lib/smb/smb/encoder"
 )
 
 /*

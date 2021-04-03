@@ -31,7 +31,7 @@ import (
 	"strings"
 
 	log "github.com/sirupsen/logrus"
-	"github.com/zmap/zgrab2"
+	"github.com/zzylydx/zgrab2"
 )
 
 // ScanResults instances are returned by the module's Scan function.

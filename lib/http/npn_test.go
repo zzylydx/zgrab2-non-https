@@ -14,8 +14,8 @@ import (
 	"testing"
 
 	"github.com/zzylydx/zcrypto/tls"
-	. "github.com/zmap/zgrab2/lib/http"
-	"github.com/zmap/zgrab2/lib/http/httptest"
+	. "github.com/zzylydx/zgrab2/lib/http"
+	"github.com/zzylydx/zgrab2/lib/http/httptest"
 )
 
 func TestNextProtoUpgrade(t *testing.T) {

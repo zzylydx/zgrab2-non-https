@@ -13,7 +13,7 @@ import (
 	"strings"
 
 	"github.com/zzylydx/zcrypto/tls"
-	"github.com/zmap/zgrab2/lib/http"
+	"github.com/zzylydx/zgrab2/lib/http"
 )
 
 // NewRequest returns a new incoming server Request, suitable

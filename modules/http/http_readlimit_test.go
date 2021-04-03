@@ -12,7 +12,7 @@ import (
 	"time"
 
 	"github.com/zzylydx/zcrypto/tls"
-	"github.com/zmap/zgrab2"
+	"github.com/zzylydx/zgrab2"
 )
 
 // BEGIN Taken from handshake_server_test.go -- certs for TLS server

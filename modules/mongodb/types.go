@@ -4,7 +4,7 @@ import (
 	"io"
 	"encoding/binary"
 	"fmt"
-	"github.com/zmap/zgrab2"
+	"github.com/zzylydx/zgrab2"
 )
 
 const (

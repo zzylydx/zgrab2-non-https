@@ -27,8 +27,8 @@ import (
 	"time"
 
 	"github.com/zzylydx/zcrypto/tls"
-	"github.com/zmap/zgrab2"
-	"github.com/zmap/zgrab2/lib/http/httptrace"
+	"github.com/zzylydx/zgrab2"
+	"github.com/zzylydx/zgrab2/lib/http/httptrace"
 	"golang.org/x/net/http/httpguts"
 )
 

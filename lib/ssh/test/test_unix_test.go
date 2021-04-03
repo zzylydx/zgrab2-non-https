@@ -21,8 +21,8 @@ import (
 	"testing"
 	"text/template"
 
-	"github.com/zmap/zgrab2/lib/ssh"
-	"github.com/zmap/zgrab2/lib/ssh/testdata"
+	"github.com/zzylydx/zgrab2/lib/ssh"
+	"github.com/zzylydx/zgrab2/lib/ssh/testdata"
 )
 
 const sshd_config = `

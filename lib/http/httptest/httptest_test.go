@@ -13,7 +13,7 @@ import (
 	"testing"
 
 	"github.com/zzylydx/zcrypto/tls"
-	"github.com/zmap/zgrab2/lib/http"
+	"github.com/zzylydx/zgrab2/lib/http"
 )
 
 func TestNewRequest(t *testing.T) {

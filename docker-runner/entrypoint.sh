@@ -16,4 +16,4 @@ if ! [ -x $ZGRAB_REBUILD ]; then
 fi
 
 set -x
-echo $ZGRAB_TARGET | /go/src/github.com/zmap/zgrab2/cmd/zgrab2/zgrab2 $*
+echo $ZGRAB_TARGET | /go/src/github.com/zzylydx/zgrab2/cmd/zgrab2/zgrab2 $*

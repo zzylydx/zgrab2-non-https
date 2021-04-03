@@ -17,7 +17,7 @@ import (
 	"time"
 
 	"github.com/zzylydx/zcrypto/tls"
-	"github.com/zmap/zgrab2/lib/http"
+	"github.com/zzylydx/zgrab2/lib/http"
 )
 
 // A Server is an HTTP server listening on a system-chosen port on the
