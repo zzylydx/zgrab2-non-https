@@ -351,8 +351,8 @@ github.com/zmap/rc2 v0.0.0-20131011165748-24b9757f5521/go.mod h1:3YZ9o3WnatTIZhu
 github.com/zmap/zcertificate v0.0.0-20180516150559-0e3d58b1bac4/go.mod h1:5iU54tB79AMBcySS0R2XIyZBAVmeHranShAFELYx7is=
 github.com/zmap/zflags v1.4.0-beta.1 h1:jzZ+wKTCksS/ltf9q19gYJ6zJuqRULuRdSWBPueEiZ8=
 github.com/zmap/zflags v1.4.0-beta.1/go.mod h1:HXDUD+uue8yeLHr0eXx1lvY6CvMiHbTKw5nGmA9OUoo=
-github.com/zzylydx/zcrypto v0.1.11 h1:T78OgZ9MD4fNLXR8h6Cx55/Fu3JUzU4k4wYI9lya1Bw=
-github.com/zzylydx/zcrypto v0.1.11/go.mod h1:R5b7/fKc392CayqbWKYo9rVT4tYCcf8JSNRwEt+xgDA=
+github.com/zzylydx/zcrypto v0.1.12 h1:BOB7JSK2MEdaetNedtV5jC0WRFMv7WKKdc3yO9Q+vMA=
+github.com/zzylydx/zcrypto v0.1.12/go.mod h1:R5b7/fKc392CayqbWKYo9rVT4tYCcf8JSNRwEt+xgDA=
 go.etcd.io/bbolt v1.3.3/go.mod h1:IbVyRI1SCnLcuJnV2u8VeU0CEYM7e686BmAb1XKL+uU=
 go.etcd.io/bbolt v1.3.4 h1:hi1bXHMVrlQh6WwxAy+qZCV/SYIlqo+Ushwdpa4tAKg=
 go.etcd.io/bbolt v1.3.4/go.mod h1:G5EMThwa9y8QZGBClrRx5EY+Yw9kAhnjy3bSjsnlVTQ=
